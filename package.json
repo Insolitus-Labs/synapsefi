@@ -69,7 +69,8 @@
     "@types/react": "latest",
     "@types/react-dom": "latest",
     "framer-motion": "latest",
-    "@react-three/drei": "latest"
+    "@react-three/drei": "latest",
+    "super-ui-kit": "^1.0.0" 
   },
   "devDependencies": {
     "@types/node": "^22",
