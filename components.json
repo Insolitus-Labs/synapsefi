@@ -8,14 +8,19 @@
     "css": "app/globals.css",
     "baseColor": "neutral",
     "cssVariables": true,
-    "prefix": ""
+    "prefix": "ui"
   },
   "aliases": {
     "components": "@/components",
     "utils": "@/lib/utils",
     "ui": "@/components/ui",
     "lib": "@/lib",
-    "hooks": "@/hooks"
+    "hooks": "@/hooks",
+    "theme": "@/theme" 
   },
-  "iconLibrary": "lucide"
+  "iconLibrary": "lucide",
+  "experimentalFeatures": {
+    "animatedComponents": true, 
+    "darkModeVariants": true  
+  }
 }
