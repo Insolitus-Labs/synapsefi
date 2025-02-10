@@ -1,6 +1,6 @@
 # SynapseFi - Autonomous DeFi Portfolio Manager
 
-![SynapseFi Banner](https://raw.githubusercontent.com/Insolitus-Labs/.github/refs/heads/main/Banner.png)
+![SynapseFi Banner](https://raw.githubusercontent.com/Insolitus-Labs/synapse/refs/heads/main/Banner.png)
 
 SynapseFi is an AI-powered, cross-chain portfolio management system that dynamically optimizes staking, lending, and liquidity strategies across multiple blockchain networks. Designed to maximize yield and mitigate risks, SynapseFi ensures seamless automation for DeFi investors.
 
